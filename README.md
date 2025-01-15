@@ -1,3 +1,6 @@
+Demo mode
+https://firmantua.github.io/MATHUIZ-B/
+
 Mathuiz-B: Android-Based Edugame Application for Sabilurrosyad Islamic Middle School
 Introduction
 Sabilurrosyad Islamic Middle School, located in Karangbesuki Village, on the outskirts of Malang City, faces unique challenges in educating its diverse student body. Most students entering the school are graduates of the local public elementary school and possess varying academic abilities, particularly in mathematics. This diversity in academic competence presents a challenge for teachers, who must balance instruction for students with different levels of understanding.
